@@ -1,0 +1,25 @@
+{
+  "name": "multiapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-docs": "jsdoc index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewLaneX/multiapi-js.git"
+  },
+  "author": "Andrew Lane <contact@lungers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewLaneX/multiapi-js/issues"
+  },
+  "homepage": "https://github.com/AndrewLaneX/multiapi-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
+  }
+}
